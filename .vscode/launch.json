@@ -1,0 +1,553 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Lec01_First_java_programme",
+            "request": "launch",
+            "mainClass": "Lec01_First_java_programme",
+            "projectName": "JAVA PROGRAMMING_d8cfd509"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec59_FinallyBlockInJava",
+            "request": "launch",
+            "mainClass": "Lec59_FinallyBlockInJava",
+            "projectName": "JAVA PROGRAMMING_e496898b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec60_JavaCollectionFramework",
+            "request": "launch",
+            "mainClass": "Lec60_JavaCollectionFramework",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec59_FinallyBlockInJava",
+            "request": "launch",
+            "mainClass": "Lec59_FinallyBlockInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec58_ThrowVsThrowsInJava",
+            "request": "launch",
+            "mainClass": "Lec58_ThrowVsThrowsInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec57_TheExceptionClassInJava",
+            "request": "launch",
+            "mainClass": "Lec57_TheExceptionClassInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec56_NestedTryCatchBlock",
+            "request": "launch",
+            "mainClass": "Lec56_NestedTryCatchBlock",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec55_HandlingSpecificExceptionInJavaProgramming",
+            "request": "launch",
+            "mainClass": "Lec55_HandlingSpecificExceptionInJavaProgramming",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec54_TryCatchBlockInJava",
+            "request": "launch",
+            "mainClass": "Lec54_TryCatchBlockInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec53_SyntaxLogicalRuntimeErrorsInJavaDemo",
+            "request": "launch",
+            "mainClass": "Lec53_SyntaxLogicalRuntimeErrorsInJavaDemo",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec52_ErrorsAndExceptionInJava",
+            "request": "launch",
+            "mainClass": "Lec52_ErrorsAndExceptionInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec51_ThreadMethods",
+            "request": "launch",
+            "mainClass": "Lec51_ThreadMethods",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec50_JavaThreadPriorities",
+            "request": "launch",
+            "mainClass": "Lec50_JavaThreadPriorities",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec49_ConstructorsFromThreadClassInJava",
+            "request": "launch",
+            "mainClass": "Lec49_ConstructorsFromThreadClassInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec48_LifeCycleOfJavaThread",
+            "request": "launch",
+            "mainClass": "Lec48_LifeCycleOfJavaThread",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec47_CreatingAThreadUsingRunnableInterface",
+            "request": "launch",
+            "mainClass": "Lec47_CreatingAThreadUsingRunnableInterface",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec46_CreatingAThreadByExtendingThreadClass",
+            "request": "launch",
+            "mainClass": "Lec46_CreatingAThreadByExtendingThreadClass",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec45_MultithreadingInJava",
+            "request": "launch",
+            "mainClass": "Lec45_MultithreadingInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec01_First_java_programme",
+            "request": "launch",
+            "mainClass": "Lec01_First_java_programme",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec44_AccessModifiersInJava",
+            "request": "launch",
+            "mainClass": "Lec44_AccessModifiersInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec43_CreatingJavaPackages",
+            "request": "launch",
+            "mainClass": "Lec43_CreatingJavaPackages",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec42_PackagesExplanation",
+            "request": "launch",
+            "mainClass": "Lec42_PackagesExplanation",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec41_IsJavaInterpretedOrCompiled",
+            "request": "launch",
+            "mainClass": "Lec41_IsJavaInterpretedOrCompiled",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec40_InterpretedVsCompiledLanguagesAndPackages",
+            "request": "launch",
+            "mainClass": "Lec40_InterpretedVsCompiledLanguagesAndPackages",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec39_PolymorphismInInterfacesAndClasses",
+            "request": "launch",
+            "mainClass": "Lec39_PolymorphismInInterfacesAndClasses",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec39_PolymorphismInInterfaces",
+            "request": "launch",
+            "mainClass": "Lec39_PolymorphismInInterfaces",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec38_InheritenceInInterfaces",
+            "request": "launch",
+            "mainClass": "Lec38_InheritenceInInterfaces",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec37_JavaInterfaceExampleAndDefaultMethods",
+            "request": "launch",
+            "mainClass": "Lec37_JavaInterfaceExampleAndDefaultMethods",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec36_MultipleInheritenceNotAllowedInJava",
+            "request": "launch",
+            "mainClass": "Lec36_MultipleInheritenceNotAllowedInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec35_AbstractClassesVersusInterfaces",
+            "request": "launch",
+            "mainClass": "Lec35_AbstractClassesVersusInterfaces",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec34_InterfacesInJavaProgramming",
+            "request": "launch",
+            "mainClass": "Lec34_InterfacesInJavaProgramming",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec33_AbstractClassAndAbstractMethods",
+            "request": "launch",
+            "mainClass": "Lec33_AbstractClassAndAbstractMethods",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec32_DynamicMethodDispatchInJava",
+            "request": "launch",
+            "mainClass": "Lec32_DynamicMethodDispatchInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec31_MethodOverridingInJava",
+            "request": "launch",
+            "mainClass": "Lec31_MethodOverridingInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec30_SuperAndThisKeywordInJava",
+            "request": "launch",
+            "mainClass": "Lec30_SuperAndThisKeywordInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec29_ConstructorsInInheritenceInJavaAndSuperKeyword",
+            "request": "launch",
+            "mainClass": "Lec29_ConstructorsInInheritenceInJavaAndSuperKeyword",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec29_ConstructorsInInheritenceInJava",
+            "request": "launch",
+            "mainClass": "Lec29_ConstructorsInInheritenceInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec28_InheritenceInJava",
+            "request": "launch",
+            "mainClass": "Lec28_InheritenceInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec27_ConstructorsInJava",
+            "request": "launch",
+            "mainClass": "Lec27_ConstructorsInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec26_AccessModifiersConstructorsGettersAndSetters",
+            "request": "launch",
+            "mainClass": "Lec26_AccessModifiersConstructorsGettersAndSetters",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec25_IntroductionToObjectOrientedProgrammingOOPS",
+            "request": "launch",
+            "mainClass": "Lec25_IntroductionToObjectOrientedProgrammingOOPS",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec24_RecursionInJavaProgramming",
+            "request": "launch",
+            "mainClass": "Lec24_RecursionInJavaProgramming",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec23_VariableArgumentInJava",
+            "request": "launch",
+            "mainClass": "Lec23_VariableArgumentInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec22_MethodsOverloadingInJava",
+            "request": "launch",
+            "mainClass": "Lec22_MethodsOverloadingInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec21_MethodsInJava",
+            "request": "launch",
+            "mainClass": "Lec21_MethodsInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec20_MultidimensionalArrayInJava",
+            "request": "launch",
+            "mainClass": "Lec20_MultidimensionalArrayInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec19_ForEachLoopInJava",
+            "request": "launch",
+            "mainClass": "Lec19_ForEachLoopInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec18_ArraysInJava",
+            "request": "launch",
+            "mainClass": "Lec18_ArraysInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec17_BreakAndContinueStatementInJava",
+            "request": "launch",
+            "mainClass": "Lec17_BreakAndContinueStatementInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec16_ForLoopsInJava",
+            "request": "launch",
+            "mainClass": "Lec16_ForLoopsInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec15_DoWhileLoopsInJava",
+            "request": "launch",
+            "mainClass": "Lec15_DoWhileLoopsInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec14_JavaWhileLoops",
+            "request": "launch",
+            "mainClass": "Lec14_JavaWhileLoops",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec13_ElseIfAndSwitchCaseStatement",
+            "request": "launch",
+            "mainClass": "Lec13_ElseIfAndSwitchCaseStatement",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec13_SwitchCaseStatementAndElseIf",
+            "request": "launch",
+            "mainClass": "Lec13_SwitchCaseStatementAndElseIf",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec13_SwitchCaseStatement",
+            "request": "launch",
+            "mainClass": "Lec13_SwitchCaseStatement",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lec12_RelationalAndLogicalOperators",
+            "request": "launch",
+            "mainClass": "Lec12_RelationalAndLogicalOperators",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lec11_ConditionalsInJavaIfElseStatements",
+            "request": "launch",
+            "mainClass": "Lec11_ConditionalsInJavaIfElseStatements",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lec10_StringsMethodsInJava",
+            "request": "launch",
+            "mainClass": "Lec10_StringsMethodsInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lec09_IntroductionToStrings",
+            "request": "launch",
+            "mainClass": "Lec09_IntroductionToStrings",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lec08_DatatypesExpressionsAndIncrementDecrementOperators",
+            "request": "launch",
+            "mainClass": "Lec08_DatatypesExpressionsAndIncrementDecrementOperators",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lec_08_DatatypesExpressionsAndIncrementDecrementOperators",
+            "request": "launch",
+            "mainClass": "Lec_08_DatatypesExpressionsAndIncrementDecrementOperators",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lec07_AssociativityInJava",
+            "request": "launch",
+            "mainClass": "Lec07_AssociativityInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lec06_OperatorsTypesOfOperatorsAndExpressions",
+            "request": "launch",
+            "mainClass": "Lec06_OperatorsTypesOfOperatorsAndExpressions",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OperatorsTypesOfOperatorsAndExpressions",
+            "request": "launch",
+            "mainClass": "OperatorsTypesOfOperatorsAndExpressions",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TakingUserInputInJava",
+            "request": "launch",
+            "mainClass": "TakingUserInputInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LiteralsInJava",
+            "request": "launch",
+            "mainClass": "LiteralsInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaVariableAndDataTypes",
+            "request": "launch",
+            "mainClass": "JavaVariableAndDataTypes",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Basic_structure_for_java_programme",
+            "request": "launch",
+            "mainClass": "Basic_structure_for_java_programme",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - First_java_programme",
+            "request": "launch",
+            "mainClass": "First_java_programme",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstJava",
+            "request": "launch",
+            "mainClass": "FirstJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataTypesInJava",
+            "request": "launch",
+            "mainClass": "DataTypesInJava",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaVariables",
+            "request": "launch",
+            "mainClass": "JavaVariables",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstJavaProgramme",
+            "request": "launch",
+            "mainClass": "FirstJavaProgramme",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyClass<JAVA PROGRAMMING_7f374c0c>",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "JAVA PROGRAMMING_7f374c0c"
+        }
+    ]
+}
