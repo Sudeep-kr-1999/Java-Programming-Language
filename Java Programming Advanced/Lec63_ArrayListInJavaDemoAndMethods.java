@@ -15,6 +15,7 @@ public class Lec63_ArrayListInJavaDemoAndMethods {
         for (int i=0;i<l1.size();i++){
             System.out.println(l1.get(i));
         }
+        System.out.println(l1);
         // l1.remove(4);
         // for (int i=0;i<l1.size();i++){
         //     System.out.println(l1.get(i));
