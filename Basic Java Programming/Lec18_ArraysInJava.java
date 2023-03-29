@@ -11,7 +11,6 @@ public class Lec18_ArraysInJava {
         int[] marks = new int[5];
         marks[0] = 100;
         marks[1] = 60;
-        ;
         marks[2] = 70;
         marks[3] = 90;
         marks[4] = 86;

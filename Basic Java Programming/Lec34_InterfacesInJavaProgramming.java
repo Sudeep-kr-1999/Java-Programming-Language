@@ -10,3 +10,5 @@ public class Lec34_InterfacesInJavaProgramming {
 
     }
 }
+
+// note : - an interface which contain only one abstract method it is called functional interface 

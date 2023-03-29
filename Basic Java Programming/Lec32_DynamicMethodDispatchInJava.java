@@ -42,5 +42,9 @@ public class Lec32_DynamicMethodDispatchInJava {
         // note:------------> it is not allowed sirf usi function ko call krege jo type
         // obj ka hoga yha pr obj ka type Phone h.......!!!!!
         // obj.music(); // not allowed....!!
+
+
+        // main story: jiska reference hai uske method ko directly call kr skte hai aur agar wo method subclass mein
+        // hai to wo subclass wla hi call ho jaayega but directly hum subclass ke method ko call nhi kr skte since it is not in reference
     }
 }

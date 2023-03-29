@@ -1,7 +1,7 @@
 
 interface Bicycle {
-    // note:---------> interface mein jo variable ki value de di wo final ho jaati
-    // h.... but isko hum chahe to class mein override kr skte h!
+    // note:---------> interface mein jo variable ki value de di wo public static final ho jaati
+    // h....
     int a = 45;
     // can be also written as....!
     // final int a=45;

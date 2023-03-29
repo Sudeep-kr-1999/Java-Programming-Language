@@ -49,7 +49,7 @@ public class Lec22_MethodsOverloadingInJava {
         // parameters are those which is defined in the funciton while making it(
         // formal)
 
-        // Note:--------> we cannot do method overloading by changing the return type we
+        // Note:--------> we cannot do method overloading by changing the return type, we
         // must have to change the parameters.....!
 
     }
